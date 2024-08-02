@@ -2,7 +2,7 @@
   "name": "blissful",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://haydnphilipdesign.github.io/blissful",
+  "homepage": "https://haydnphilipdesign.github.io/blissful/",
   "dependencies": {
     "@babel/core": "^7.25.2",
     "babel-loader": "^9.1.3",

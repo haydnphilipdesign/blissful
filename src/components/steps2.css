@@ -1,0 +1,33 @@
+.steps {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.steps h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.steps-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.step-item {
+    flex: 1 1 300px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.step-item h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.step-item p {
+    font-size: 18px;
+}
